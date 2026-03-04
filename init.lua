@@ -34,6 +34,7 @@ mobs:register_mob("mammoth:mammoth", {
         {"mammoth_mammoth_mesh.png"},
     },
     collisionbox = {-3.0, -0.01, -3.0, 3.0, 6, 3.0},
+    baby_size = 0.4,
     makes_footstep_sound = true,
     pathfinding = true,
     animation = {
