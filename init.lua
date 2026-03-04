@@ -23,6 +23,7 @@ mobs:register_mob("mammoth:mammoth", {
     armor = 100,
     walk_velocity = 1,
     run_velocity = 3,
+    breed = true,
     jump = true,
     jump_height = 1,
     stepheight = 2,
