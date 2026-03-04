@@ -24,6 +24,7 @@ mobs:register_mob("mammoth:mammoth", {
     walk_velocity = 1,
     run_velocity = 3,
     breed = true,
+    breed_distance = 6,
     jump = true,
     jump_height = 1,
     stepheight = 2,
